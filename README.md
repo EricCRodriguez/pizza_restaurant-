@@ -1,3 +1,9 @@
+
+This site is built using React Js and deployed on Netlify. The website is fully responsive and has a restaurant food ordering e-commerce design.
+Here is the Link: https://salvatorestavernpizza.netlify.app/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
